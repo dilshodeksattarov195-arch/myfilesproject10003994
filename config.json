@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrncrypt",
+        "uuid": 6657998,
+        "checksum": "dpomzj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
